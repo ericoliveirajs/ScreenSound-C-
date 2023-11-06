@@ -1,0 +1,14 @@
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
